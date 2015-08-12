@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "ReadyMadeRC/ZMR-250",
+    "esc": "DYS/Mini-20A",
+    "motor": "Cobra/CM-2204-2300kv",
+    "fc": "AbuseMark/Acro-Naze32",
+    "prop": [
+      "Gemfan/5x3-FG-MR"
+    ],
+    "arm": "Blackout/Mini-H-Quad---Arm",
+    "battery": [
+      "Turnigy/Nano-Tech-3S-1300mAh-45-90C"
+    ],
+    "osd": "",
+    "receiver": "FrSky/D4R-II",
+    "flightcam": "UnknownManufacturer/dronematters/PZ0420-IR-Blocked-600TVL-Sony-Super-HAD-D-WDR-CCD-Camera-with-2.8mm-Lens",
+    "hqcam": "",
+    "videotx": "GetFPV-Affiliate/5.8GHz-32CH-A-V-600mW-Transmitter-(TS832)",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
