@@ -1,18 +1,23 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Micro Carbon-H (MicroMotorWarehouse)",
+    "esc": "",
+    "motor": "8.5mm Dark Edition (MicroMotorWarehouse)",
+    "fc": "Beefs Brushed Board (MultiRotorSuperstore)",
+    "prop": [
+      "Hubsan/X4-Rotor-Blades-Black-Red"
+    ],
+    "arm": "",
+    "battery": [
+      "Turnigy Nano-Tech 1S 750Mah 35-90C"
+    ],
+    "osd": "",
+    "receiver": "",
+    "flightcam": "1g Micro Camera",
+    "hqcam": "",
+    "videotx": "Boscam/TS-351-200mw-transmitter",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
